@@ -25,7 +25,3 @@ https://www.kongregate.com/games/kantieno/harvest-idle
 
 http://www.stencyl.com/game/play/36672
 
-# Club Project:
-For Video Game Development Club's first project I led the team in developing a 3D game using Unity. 
-
-https://github.com/kantieno/VGDC_GAME
